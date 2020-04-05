@@ -81,3 +81,694 @@ console.error: (new Error("SessionFile is closed", "resource:///modules/sessions
 JavaScript error: , line 0: uncaught exception: undefined
 1586046687694	Marionette	INFO	Stopped listening on port 34217
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+1586091671519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK3fupp"
+*** You are running in headless mode.
+1586091678081	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586091680348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586091680348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586091680348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586091680348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586091688168	Marionette	INFO	Listening on port 37355
+1586091688235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df39b3ec956a767c%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff46529ec82e39a%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df39b3ec956a767c%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff46529ec82e39a%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df39b3ec956a767c%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff46529ec82e39a%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df39b3ec956a767c%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff46529ec82e39a%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+1586091738747	Marionette	INFO	Stopped listening on port 37355
+1586091920565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVcOC3S"
+*** You are running in headless mode.
+1586091921235	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586091922841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586091922841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586091922842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586091922843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586091926029	Marionette	INFO	Listening on port 38797
+1586091926087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 172: NS_ERROR_FAILURE: 
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+1586091996177	Marionette	INFO	Stopped listening on port 38797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586092183170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4mYbni"
+*** You are running in headless mode.
+1586092183728	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586092185048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586092185048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586092185048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586092185049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586092187227	Marionette	INFO	Listening on port 41269
+1586092187285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/032003262059300/v0/amp-analytics-0.1.js, line 110: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022003171848440/v0/amp-analytics-0.1.js, line 109: NS_ERROR_NOT_INITIALIZED: 
+1586092256988	Marionette	INFO	Stopped listening on port 41269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5092: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1586093159878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1XQLjG"
+*** You are running in headless mode.
+1586093160444	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586093161810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586093161810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586093161811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586093161811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586093164020	Marionette	INFO	Listening on port 42133
+1586093164092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586093233117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4GC3lC"
+*** You are running in headless mode.
+1586093234126	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586093235601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586093235601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586093235602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586093235602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586093237780	Marionette	INFO	Listening on port 34791
+1586093237830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586093279452	Marionette	INFO	Stopped listening on port 34791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586093295652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM0QZLH"
+*** You are running in headless mode.
+1586093296259	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586093297643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586093297643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586093297644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586093297644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586093299972	Marionette	INFO	Listening on port 33985
+1586093300069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586093576383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq2aCBb"
+*** You are running in headless mode.
+1586093576979	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586093578430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586093578430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586093578430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586093578430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586093580541	Marionette	INFO	Listening on port 34967
+1586093580599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586093620797	Marionette	INFO	Stopped listening on port 34967
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586093647441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePTBtvi"
+*** You are running in headless mode.
+1586093648024	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586093649376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586093649376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586093649376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586093649376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586093651585	Marionette	INFO	Listening on port 45011
+1586093651654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586093686471	Marionette	INFO	Stopped listening on port 45011
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+1586093709465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevaXSic"
+*** You are running in headless mode.
+1586093710091	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586093711594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586093711595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586093711595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586093711595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586093713799	Marionette	INFO	Listening on port 44189
+1586093713882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586093758748	Marionette	INFO	Stopped listening on port 44189
+1586093957870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerhr9PL"
+*** You are running in headless mode.
+1586093958464	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586093959840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586093959841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586093959841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586093959841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586093962157	Marionette	INFO	Listening on port 45121
+1586093962183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586094006970	Marionette	INFO	Stopped listening on port 45121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586094186740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTHWYJL"
+*** You are running in headless mode.
+1586094187343	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586094188742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586094188742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586094188743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586094188743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586094191012	Marionette	INFO	Listening on port 44653
+1586094191060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586094231570	Marionette	INFO	Stopped listening on port 44653
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+1586094265331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewAutIw"
+*** You are running in headless mode.
+1586094265941	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586094267368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586094267368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586094267368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586094267368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586094269689	Marionette	INFO	Listening on port 32849
+1586094269744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586094294810	Marionette	INFO	Stopped listening on port 32849
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1586112847488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXHxDFO"
+*** You are running in headless mode.
+1586112848110	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586112849560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586112849560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586112849560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586112849560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586112851964	Marionette	INFO	Listening on port 39837
+1586112852006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586112903436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu8G8uo"
+*** You are running in headless mode.
+1586112904262	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586112905683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586112905683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586112905684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586112905684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586112907947	Marionette	INFO	Listening on port 44185
+1586112908052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586112945924	Marionette	INFO	Stopped listening on port 44185
+1586113132958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMv39nW"
+*** You are running in headless mode.
+1586113133565	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586113135086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586113135086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586113135086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586113135086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586113137465	Marionette	INFO	Listening on port 37815
+1586113137472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586113174581	Marionette	INFO	Stopped listening on port 37815
+1586113615145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuAwCbE"
+*** You are running in headless mode.
+1586113615818	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586113617440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586113617440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586113617441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586113617441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586113619764	Marionette	INFO	Listening on port 33621
+1586113619862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586113677351	Marionette	INFO	Stopped listening on port 33621
+1586113815176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBFbL4R"
+*** You are running in headless mode.
+1586113815875	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586113817350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586113817350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586113817350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586113817351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586113819756	Marionette	INFO	Listening on port 41417
+1586113819796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114009695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKzSDC9"
+*** You are running in headless mode.
+1586114010336	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586114011888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586114011888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586114011889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586114011889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586114014142	Marionette	INFO	Listening on port 43015
+1586114014209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114039938	Marionette	INFO	Stopped listening on port 43015
+1586114074020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYFHPuJ"
+*** You are running in headless mode.
+1586114074658	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586114076080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586114076080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586114076080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586114076080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586114078344	Marionette	INFO	Listening on port 42515
+1586114078433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114109507	Marionette	INFO	Stopped listening on port 42515
+1586114342656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehh0Oum"
+*** You are running in headless mode.
+1586114343313	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586114344866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586114344866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586114344866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586114344866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586114347244	Marionette	INFO	Listening on port 40497
+1586114347275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114389640	Marionette	INFO	Stopped listening on port 40497
+1586114455437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileds5sPp"
+*** You are running in headless mode.
+1586114456359	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586114457823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586114457823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586114457823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586114457823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586114460360	Marionette	INFO	Listening on port 38641
+1586114460455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114543930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKOkQ7G"
+*** You are running in headless mode.
+1586114544578	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586114546096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586114546096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586114546097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586114546097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586114548953	Marionette	INFO	Listening on port 33367
+1586114549048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114893039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG9AD9H"
+*** You are running in headless mode.
+1586114895975	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586114897578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586114897578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586114897578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586114897578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586114903356	Marionette	INFO	Listening on port 34263
+1586114903404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114945265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerpC1U8"
+*** You are running in headless mode.
+1586114946748	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586114949231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586114949232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586114949232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586114949232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586114953507	Marionette	INFO	Listening on port 42479
+1586114953600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586114995562	Marionette	INFO	Stopped listening on port 42479
+1586115152735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQQaURd"
+*** You are running in headless mode.
+1586115154813	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586115156307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586115156307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586115156307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586115156307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586115160818	Marionette	INFO	Listening on port 36571
+1586115160968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 27: Error: Failed to load: https://tpc.googlesyndication.com/simgad/145317004321994286​​​
+1586115607645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel0EUC9"
+*** You are running in headless mode.
+1586115612683	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586115614408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586115614408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586115614408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586115614409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586115622556	Marionette	INFO	Listening on port 37463
+1586115622644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586115768942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFiPPyP"
+*** You are running in headless mode.
+1586115770748	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586115773229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586115773229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586115773229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586115773230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[2020-04-05T19:42:56Z ERROR audio_thread_priority::rt_linux] setrlimit64: 1
+1586115779071	Marionette	INFO	Listening on port 40515
+1586115779297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586116323661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGMt9ET"
+*** You are running in headless mode.
+1586116333986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586116336095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586116336095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586116336095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586116336096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[2020-04-05T19:52:42Z ERROR audio_thread_priority::rt_linux] setrlimit64: 1
+1586116365790	Marionette	INFO	Listening on port 40179
+1586116365801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1586116414646	Marionette	INFO	Stopped listening on port 40179
+1586116965607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUTPqFv"
+*** You are running in headless mode.
+1586116975144	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586116978345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586116978345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586116978345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586116978345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[2020-04-05T20:03:06Z ERROR audio_thread_priority::rt_linux] setrlimit64: 1
+1586116995382	Marionette	INFO	Listening on port 38565
+1586116995477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1586117623708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled4yDwk"
+*** You are running in headless mode.
+1586117651655	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586117654733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586117654733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586117654733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586117654733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586117666637	Marionette	INFO	Listening on port 37745
+1586117666719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586117804385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCxsXI2"
+*** You are running in headless mode.
+1586117805079	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586117806575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586117806575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586117806576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586117806576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586117809004	Marionette	INFO	Listening on port 37989
+1586117809096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586123976534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZvi7Ad"
+*** You are running in headless mode.
+1586123982707	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586123984459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586123984459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586123984459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586123984459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586123991208	Marionette	INFO	Listening on port 39927
+1586123991307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586124035110	Marionette	INFO	Stopped listening on port 39927
+1586124087290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3VyNA0"
+*** You are running in headless mode.
+1586124087913	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586124089367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586124089367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586124089367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586124089367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586124091721	Marionette	INFO	Listening on port 36445
+1586124092917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586124129663	Marionette	INFO	Stopped listening on port 36445
+1586124163248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepBVcf1"
+*** You are running in headless mode.
+1586124163943	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586124165390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586124165391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586124165391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586124165391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586124167589	Marionette	INFO	Listening on port 37257
+1586124167662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586124205585	Marionette	INFO	Stopped listening on port 37257
+1586124528039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilescfJS3"
+*** You are running in headless mode.
+1586124528633	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586124530161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586124530161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586124530162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586124530162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586124532363	Marionette	INFO	Listening on port 44915
+1586124532457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586124712664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqlBGYJ"
+*** You are running in headless mode.
+1586124713614	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586124715024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586124715024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586124715024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586124715024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586124717446	Marionette	INFO	Listening on port 34695
+1586124717478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586124771993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVBo472"
+*** You are running in headless mode.
+1586124773246	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586124774590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586124774590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586124774590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586124774590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586124777494	Marionette	INFO	Listening on port 36551
+1586124777512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df28b02e3ffb141e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3ffb3401eaca82%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df28b02e3ffb141e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3ffb3401eaca82%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df28b02e3ffb141e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3ffb3401eaca82%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df28b02e3ffb141e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3ffb3401eaca82%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 8: ReferenceError: require is not defined
+1586124830384	Marionette	INFO	Stopped listening on port 36551
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+1586125082493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG9DOnX"
+*** You are running in headless mode.
+1586125083245	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586125084707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586125084707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586125084707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586125084707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586125087094	Marionette	INFO	Listening on port 33545
+1586125087115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe2bcc104794ae%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff349f93c31f8fa%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe2bcc104794ae%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff349f93c31f8fa%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe2bcc104794ae%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff349f93c31f8fa%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe2bcc104794ae%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff349f93c31f8fa%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450&_rdc=1&_rdr, line 8: ReferenceError: require is not defined
+1586125115529	Marionette	INFO	Stopped listening on port 33545
+1586125244115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew4nHEZ"
+*** You are running in headless mode.
+1586125244744	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586125246108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586125246109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586125246109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586125246109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586125248375	Marionette	INFO	Listening on port 46303
+1586125248426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586125368632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexzdxxp"
+*** You are running in headless mode.
+1586125369260	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586125370627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586125370627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586125370627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586125370627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586125372964	Marionette	INFO	Listening on port 34897
+1586125373046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586125404890	Marionette	INFO	Stopped listening on port 34897
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+1586125435299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejhB6DL"
+*** You are running in headless mode.
+1586125435893	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586125437223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586125437223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586125437223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586125437224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586125439581	Marionette	INFO	Listening on port 35763
+1586125439613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586125458231	Marionette	INFO	Stopped listening on port 35763
+1586125483983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS3NYVe"
+*** You are running in headless mode.
+1586125484628	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586125486167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586125486167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586125486167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586125486168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586125488482	Marionette	INFO	Listening on port 44029
+1586125488510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586125509289	Marionette	INFO	Stopped listening on port 44029
+1586125694898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNA3nlj"
+*** You are running in headless mode.
+1586125695577	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586125697018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586125697018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586125697018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586125697018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586125699341	Marionette	INFO	Listening on port 36061
+1586125699411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586125719849	Marionette	INFO	Stopped listening on port 36061
+1586125737000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile59WtZb"
+*** You are running in headless mode.
+1586125737592	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586125739032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586125739032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586125739032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586125739032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586125741369	Marionette	INFO	Listening on port 33265
+1586125741414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586125798972	Marionette	INFO	Stopped listening on port 33265
+1586126385592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFvfI4O"
+*** You are running in headless mode.
+1586126386187	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586126387578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586126387578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586126387578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586126387578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586126389775	Marionette	INFO	Listening on port 39727
+1586126389805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586126436662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH8ucTM"
+*** You are running in headless mode.
+1586126437339	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586126438751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586126438751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586126438752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586126438752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586126441453	Marionette	INFO	Listening on port 45825
+1586126441475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/v0/amp-analytics-0.1.js, line 109: NS_ERROR_NOT_INITIALIZED: 
+1586126475003	Marionette	INFO	Stopped listening on port 45825
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+1586126653598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQImvX"
+*** You are running in headless mode.
+1586126654255	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586126655719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586126655720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586126655720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586126655720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586126658186	Marionette	INFO	Listening on port 39031
+1586126658213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 172: NS_ERROR_FAILURE: 
+1586126715090	Marionette	INFO	Stopped listening on port 39031
+1586126824524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoVi3Th"
+*** You are running in headless mode.
+1586126825195	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586126826739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586126826739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586126826739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586126826739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586126829131	Marionette	INFO	Listening on port 36915
+1586126829150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586126879123	Marionette	INFO	Stopped listening on port 36915
+1586126950553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQcis83"
+*** You are running in headless mode.
+1586126951252	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586126952935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586126952935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586126952935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586126952936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586126955361	Marionette	INFO	Listening on port 45689
+1586126955379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586126983350	Marionette	INFO	Stopped listening on port 45689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586127268863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoUo3I1"
+*** You are running in headless mode.
+1586127269589	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586127271198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586127271198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586127271198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586127271198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586127273732	Marionette	INFO	Listening on port 33985
+1586127273787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586127317261	Marionette	INFO	Stopped listening on port 33985
+1586127554133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekMmFc0"
+*** You are running in headless mode.
+1586127555064	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586127556431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586127556431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586127556431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586127556431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586127559214	Marionette	INFO	Listening on port 42575
+1586127559248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586127610877	Marionette	INFO	Stopped listening on port 42575
+1586127684318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep1qhb5"
+*** You are running in headless mode.
+1586127685169	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586127686733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586127686733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586127686733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586127686733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586127690009	Marionette	INFO	Listening on port 41887
+1586127690037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586127743853	Marionette	INFO	Stopped listening on port 41887
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586127902843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0bZQCq"
+*** You are running in headless mode.
+1586127903745	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586127905340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586127905340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586127905340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586127905341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586127908118	Marionette	INFO	Listening on port 34827
+1586127908164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 172: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 172: NS_ERROR_FAILURE: 
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df19bfd6f96a2912%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3eae9a6573634c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df19bfd6f96a2912%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3eae9a6573634c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df19bfd6f96a2912%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3eae9a6573634c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df19bfd6f96a2912%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3eae9a6573634c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df540d421f0088%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff35428af717e56c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df540d421f0088%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff35428af717e56c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df540d421f0088%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff35428af717e56c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df540d421f0088%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff35428af717e56c%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 172: NS_ERROR_FAILURE: 
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df2a1e02dfdc92be%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff2258977dc12676%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df2a1e02dfdc92be%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff2258977dc12676%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df2a1e02dfdc92be%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff2258977dc12676%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df2a1e02dfdc92be%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff2258977dc12676%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+1586128132504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 172: NS_ERROR_FAILURE: 
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1d64bcb8812566%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff284c2e40553fd4%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1d64bcb8812566%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff284c2e40553fd4%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1d64bcb8812566%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff284c2e40553fd4%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1d64bcb8812566%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff284c2e40553fd4%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe8825b5652e26%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3f12ac959bb4d8%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe8825b5652e26%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3f12ac959bb4d8%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe8825b5652e26%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3f12ac959bb4d8%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Dfe8825b5652e26%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff3f12ac959bb4d8%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+JavaScript error: https://myanimelist.net/anime/263/Hajime_no_Ippo, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: https://myanimelist.net/anime/263/Hajime_no_Ippo, line 13: ReferenceError: osdlfm is not defined
+1586128514940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileruORq1"
+*** You are running in headless mode.
+1586128515811	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586128517349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586128517349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586128517349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586128517349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586128519654	Marionette	INFO	Listening on port 42337
+1586128519754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586128539632	Marionette	INFO	Stopped listening on port 42337
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WL4QW3G, line 220: NS_ERROR_NOT_INITIALIZED: 
+1586128573378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewtPJRt"
+*** You are running in headless mode.
+1586128574028	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586128576114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586128576114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586128576114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586128576114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586128578518	Marionette	INFO	Listening on port 34429
+1586128578594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1e1868f86f774%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff1d718536e2004%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1e1868f86f774%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff1d718536e2004%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1e1868f86f774%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff1d718536e2004%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1e1868f86f774%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff1d718536e2004%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012003171848440/amp4ads-v0.js, line 172: NS_ERROR_FAILURE: 
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1cd1917e803c5e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff8271e804dd254%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 5: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1cd1917e803c5e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff8271e804dd254%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 6: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1cd1917e803c5e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff8271e804dd254%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.12/plugins/page.php?app_id=360769957454434&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1cd1917e803c5e%26domain%3Dmyanimelist.net%26origin%3Dhttps%253A%252F%252Fmyanimelist.net%252Ff8271e804dd254%26relation%3Dparent.parent&container_width=450&height=154&locale=en_US&sdk=joey&width=450, line 9: ReferenceError: require is not defined
+JavaScript error: https://myanimelist.net/anime/164/Mononoke_Hime, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: https://myanimelist.net/anime/164/Mononoke_Hime, line 13: ReferenceError: osdlfm is not defined

@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.firefox.options import Options
 import json
 import time
+from collections import Counter
 
 #1 - Obtem o hmtl
 
@@ -13,26 +14,29 @@ option.headless = True # faz com que a janela do navegador nao apareca
 driver = webdriver.Firefox(options=option)
 driver.get(url);
 
-for i in range(2, 3):
+c = Counter()
+
+for i in range(2, 51):
 	element = driver.find_element_by_xpath(
 		f'//*[@id="content"]/div[4]/table/tbody/tr[{i}]/td[2]/div/div[2]') 
 	element.click()
 	
-	# Faco essa sopa para descobri o numeros de "spans" no caso seriam o generos
-	element = driver.find_element_by_xpath(
-		'//*[@id="content"]/table/tbody/tr/td[1]/div/div[19]')
-	html_content = element.get_attribute('outerHTML')
-	soup = BeautifulSoup(html_content, 'html.parser')
-	spans = soup.find_all('span')
+	element = driver.find_element_by_xpath('//*[@id="content"]/table/tbody/tr/td[1]/div')
+	hmtl_content = element.get_attribute('outerHTML')
+	soup = BeautifulSoup(hmtl_content, 'html.parser')
 
-	for i in range(2, len(spans)):
-		element =  driver.find_element_by_xpath(
-			f'//*[@id="content"]/table/tbody/tr/td[1]/div/div[19]/span[{i}]')
-		html_content = element.get_attribute('outerHTML')
-		soup = BeautifulSoup(html_content, 'html.parser')
-		print(soup.get_text())
-	print('***************************')
-
+	dark_texts = soup.find_all('span', 'dark_text')
+	
+	for i in dark_texts:
+		if i.get_text() == 'Genres:':
+			genres = i.find_next_siblings('span')
+			list_genres = [g.get_text() for g in genres]
+			c.update(list_genres)
+	
 	driver.back()
 
 driver.quit()
+
+with open('AnimeGenres.json', 'w', encoding='utf-8') as file:
+	js = json.dumps(c, indent=4) 
+	file.write(js)
