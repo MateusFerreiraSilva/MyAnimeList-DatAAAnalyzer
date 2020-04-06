@@ -16,12 +16,20 @@ driver.get(url);
 
 c = Counter()
 
-for i in range(2, 51):
-	element = driver.find_element_by_xpath(
-		f'//*[@id="content"]/div[4]/table/tbody/tr[{i}]/td[2]/div/div[2]') 
+for i in range(2, 52):
+	try:
+		element = driver.find_element_by_xpath(
+			f'//*[@id="content"]/div[4]/table/tbody/tr[{i}]/td[2]/div/div[2]')
+	except:
+		continue 
+
 	element.click()
 	
-	element = driver.find_element_by_xpath('//*[@id="content"]/table/tbody/tr/td[1]/div')
+	try:
+		element = driver.find_element_by_xpath('//*[@id="content"]/table/tbody/tr/td[1]/div')
+	except:
+		continue
+
 	hmtl_content = element.get_attribute('outerHTML')
 	soup = BeautifulSoup(hmtl_content, 'html.parser')
 

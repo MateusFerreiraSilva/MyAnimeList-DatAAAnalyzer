@@ -1,3 +1,2 @@
-from matplotlib import pyplot as plt
-
-print(plt.style.available)
+dic = {1 : 2, 3 : 5}
+print(dic.items())

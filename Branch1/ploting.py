@@ -16,38 +16,38 @@ df['DateBegin'], df['DateEnd'] = to_datetime(df['Date'])
 df['Date'].drop
 print(df)
 
-# #4 - Gera o grafico com matplotlib
-# x_axis = df['Title'][0:11]
-# y_axis = df['Members'][0:11]
+#4 - Gera o grafico com matplotlib
+x_axis = df['Title'][0:11]
+y_axis = df['Members'][0:11]
 
 
-# #fig 1
-# plt.style.use('seaborn-bright')
-# plt.bar(x_axis, y_axis)
-# plt.xlabel('Animes')
-# plt.ylabel('Members')
-# plt.title('Most popular anime (MAL)')
+#fig 1
+plt.style.use('seaborn-bright')
+plt.bar(x_axis, y_axis)
+plt.xlabel('Animes')
+plt.ylabel('Members')
+plt.title('Most popular anime (MAL)')
 
-# plt.grid(True)
-# plt.xticks(rotation=90)
+plt.grid(True)
+plt.xticks(rotation=90)
 
-# plt.tight_layout()
-# plt.savefig('MostPopularAnime.png')
-# plt.show()
+plt.tight_layout()
+plt.savefig('MostPopularAnime.png')
+plt.show()
 
-# #fig 2
+#fig 2
 
-# y2_axis = df['Score'][0:11]
+y2_axis = df['Score'][0:11]
 
-# plt.style.use('bmh')
-# plt.scatter(x_axis, y2_axis)
-# plt.xlabel('Animes')
-# plt.ylabel('Score')
-# plt.title('Best Scores of MAL')
+plt.style.use('bmh')
+plt.scatter(x_axis, y2_axis)
+plt.xlabel('Animes')
+plt.ylabel('Score')
+plt.title('Best Scores of MAL')
 
-# plt.grid(True)
-# plt.xticks(rotation=90)
+plt.grid(True)
+plt.xticks(rotation=90)
 
-# plt.tight_layout()
-# plt.savefig('BestScoresMAL.png')
-# plt.show()
+plt.tight_layout()
+plt.savefig('BestScoresMAL.png')
+plt.show()
