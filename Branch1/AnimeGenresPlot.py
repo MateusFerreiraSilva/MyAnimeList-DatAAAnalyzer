@@ -7,16 +7,17 @@ with open('AnimeGenres.json') as f:
 
 data = {k: v for k, v in sorted(array.items(), key=lambda item: item[1], reverse=True)}
 
-x_axis = [int(x) for x in data.values()]
-y_axis = data.keys()
+sizes = [int(x) for x in data.values()]
+labels = list(data.keys())
+
+sizes = sizes[0:10]
+labels = labels[0:10]
 
 plt.style.use('fivethirtyeight')
-plt.ylabel('Amount in top 50 anime')
-plt.xlabel('Genre of anime')
-plt.title('The genres of the most popular animes')
-plt.grid(True)
-plt.xticks(rotation=90)
-plt.bar(y_axis, x_axis)
+plt.title('The top 10 genres of the most popular animes')
 
-plt.show()
+
+plt.pie(sizes, labels=labels, autopct='%.1f%%',
+	 shadow=False, wedgeprops={'edgecolor' : 'black'})
+
 plt.savefig('MostPopularAnimeGenres.png')
